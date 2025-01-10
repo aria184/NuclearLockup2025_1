@@ -519,7 +519,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 349.2, y: 166.9}
+  m_AnchoredPosition: {x: 325, y: 166.9}
   m_SizeDelta: {x: 223.1787, y: 47.1678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &940494085
@@ -706,8 +706,8 @@ Transform:
   m_GameObject: {fileID: 972976098}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0031, y: -0.0252, z: 0}
-  m_LocalScale: {x: 1.6633, y: 1.3875661, z: 1}
+  m_LocalPosition: {x: 1.74, y: 0.0325, z: 0}
+  m_LocalScale: {x: 1.6633, y: 1.4090734, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -958,7 +958,7 @@ GameObject:
   - component: {fileID: 1714143459}
   - component: {fileID: 1714143462}
   m_Layer: 5
-  m_Name: Options
+  m_Name: HowToPlay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -981,7 +981,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 349.2, y: 77.59575}
+  m_AnchoredPosition: {x: 325, y: 77.59575}
   m_SizeDelta: {x: 223.1787, y: 47.1678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1714143459
@@ -1126,7 +1126,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 349.2, y: -14.066917}
+  m_AnchoredPosition: {x: 325, y: -14.066917}
   m_SizeDelta: {x: 223.1787, y: 47.1678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1751354598
@@ -1285,7 +1285,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Options
+  m_text: How to Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
